@@ -14,6 +14,12 @@ A 'Barbearia Alura' foi um projeto feito no curso de [HTML e CSS](https://cursos
 
 ![Badge Projeto Não Autoral](https://img.shields.io/badge/Desenvolvido-Alura-brightgreen)
 
+## Minhas Alterações
+Eu realizei algumas alterações no projeto original da Barbearia Alura.
+
+👀 Pode dar uma olhada
+[Barbearia Alura](https://projeto-barbearia-neon.vercel.app/)
+
 ## :hammer: Funcionalidades do Projeto
 
 - `Funcionalidade 1`: Site criado com somente HTML.
@@ -24,12 +30,6 @@ A 'Barbearia Alura' foi um projeto feito no curso de [HTML e CSS](https://cursos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
 </div>
-
-## Minhas Alterações
-Eu realizei algumas alterações no projeto original da 'Barbearia Alura'.
-👀 Pode dar uma olhada
-
-
 
 ## Aprendizados
 

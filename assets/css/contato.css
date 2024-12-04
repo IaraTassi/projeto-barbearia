@@ -1,9 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 header {
-  background: #ddd;
-  padding: 20px 0;
+  background: #bbb;
+  padding: 10px 0;
   width: 1140px;
   margin: 0 auto;
 }
@@ -32,6 +37,11 @@ nav a {
 nav a:hover {
   color: orange;
   text-decoration: underline;
+}
+.banner {
+  width: 1140px;
+  display: block;
+  margin: auto;
 }
 main {
   width: 1140px;

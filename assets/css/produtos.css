@@ -1,9 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 header {
-  background: #ddd;
-  padding: 20px 0;
+  background: #bbbbbb;
+  padding: 10px 0;
   width: 1140px;
   margin: 0 auto;
 }
@@ -27,10 +32,16 @@ nav a {
   color: #000000;
   font-weight: bold;
   font-size: 22px;
+  text-decoration: none;
 }
 nav a:hover {
-  color: orange;
+  color: #c78c19;
   text-decoration: underline;
+}
+.banner {
+  width: 1140px;
+  display: block;
+  margin: auto;
 }
 main {
   background-color: #fefefe;
@@ -48,13 +59,13 @@ main {
   width: 30%;
   vertical-align: top;
   margin: 0 1.5%;
-  padding: 30px 30px;
+  padding: 30px 20px;
   box-sizing: border-box;
   border: 2px solid #000000;
   border-radius: 10px;
 }
 .produtos li:hover {
-  border-color: orange;
+  border-color: #c78c19;
 }
 .produtos li:active {
   border-color: #088c19;
